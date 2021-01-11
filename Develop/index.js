@@ -62,6 +62,5 @@ function init() {
         writeToFile("README.md", generateMarkdown(response))
     });
 }
-
 // function call to initialize program
 init();
