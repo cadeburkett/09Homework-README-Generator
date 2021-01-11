@@ -1,8 +1,8 @@
 
-  # This is my title
+  # Title
 
   ## Description
-  README generator
+  Description
 
   ## Table of Contents
   * [Description](#description)
@@ -14,19 +14,19 @@
   * [Questions](#questions)
 
   ## Instalation
-  You will need: node moduals and inquirer
+  NPM 
 
   ## Usage
-  In an integrated terminal, run `node index.js`
+  node index.js
 
   ## Credits
-  None
+  No
 
   ## License
-  None
+  No
 
   ## Tests
-  None yet
+  Test
 
   ## Questions
-  Github: cadeburkett, Github Link: https://github.com/cadeburkett, Email: cadeburkett@gmail.com, 
+  Answers
